@@ -7,10 +7,8 @@
 5. Make a function that take as parameters dayTime and return number of employee working // howManyEmployeeByTime(time) => int
 6. How many days of work needed to done all tasks ? // => 1 day = 9:00 to 00:00 between 00:00 and 09:00 doesnt count.
 
-測驗結果:
-first
-second
-third
-fourth
-fiveth
-sixth
+程式:
+first second third fourth fiveth sixth
+
+執行結果:
+1 2 3 4 5 6
